@@ -41,7 +41,7 @@ You are required to model the price of houses with the available independent var
 
 ## Conclusions:
 
-After checking the model usng Linear Regression, we get R2 score very low, hence we model Lasso and Ridge Regression.
+After checking the model using Linear Regression, we get R2 score very low, hence we model Lasso and Ridge Regression.
 
 **Optimal value for both Lasso and Ridge models turned out to be:**
 - Optimal value of alpha for Lasso model: 0.0001
